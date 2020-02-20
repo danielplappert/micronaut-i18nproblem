@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: i18n.demo
+---
+testFramework: junit
+sourceLanguage: java
